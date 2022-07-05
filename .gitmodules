@@ -1,3 +1,9 @@
 [submodule "01_hardhat_react_greeter"]
 	path = 01_hardhat_react_greeter
 	url = git@github.com:yandreiy/hardhat-react-greeter.git
+[submodule "02_hardhat_nextjs_greeter"]
+	path = 02_hardhat_nextjs_greeter
+	url = git@github.com:yandreiy/hardhat-nextjs-greeter.git
+[submodule "03_multisigwallet"]
+	path = 03_multisigwallet
+	url = git@github.com:yandreiy/hardhat-multisigwallet.git

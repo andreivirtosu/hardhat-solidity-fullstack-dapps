@@ -1,0 +1,3 @@
+[submodule "01_hardhat_react_greeter"]
+	path = 01_hardhat_react_greeter
+	url = git@github.com:yandreiy/hardhat-react-greeter.git
